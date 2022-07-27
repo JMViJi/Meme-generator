@@ -1,0 +1,1 @@
+from .MakeMeme import MemeGenerator
